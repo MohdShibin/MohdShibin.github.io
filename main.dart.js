@@ -53191,13 +53191,13 @@ M(a,b){return new A.ts(new A.rO(null),null)}}
 A.yz.prototype={
 M(a,b){var s=null,r=b.a_(t.w).f.a,q=r.b,p=q>800?q*0.93:800
 q=t.p
-return A.d4(s,A.iC(A.a([A.kP(A.cD(A.nC("aboutImg.png",B.bo,B.cD,s),420,420),3),A.kP(A.hX(A.a([A.dU("LET ME\nTELL YOU\nWHO AM I!",s,s,$.a4e(),s,s),A.cD(s,22,s),A.dU("I am Shibin,\nPursuing B.tech Computer Science and Engineering\nWith Honours in Machine Learning.\n\n",s,s,$.a4d(),s,s),new A.rJ("Download CV",new A.Lz(),s)],q),B.cO,B.aw),4)],q),B.bA,B.a7),B.o,B.bi,s,s,s,p,s,s,s,s,r.a)}}
+return A.d4(s,A.iC(A.a([A.kP(A.cD(A.nC("assets/aboutImg.png",B.bo,B.cD,s),420,420),3),A.kP(A.hX(A.a([A.dU("LET ME\nTELL YOU\nWHO AM I!",s,s,$.a4e(),s,s),A.cD(s,22,s),A.dU("I am Shibin,\nPursuing B.tech Computer Science and Engineering\nWith Honours in Machine Learning.\n\n",s,s,$.a4d(),s,s),new A.rJ("Download CV",new A.Lz(),s)],q),B.cO,B.aw),4)],q),B.bA,B.a7),B.o,B.bi,s,s,s,p,s,s,s,s,r.a)}}
 A.Lz.prototype={
 $0(){},
 $S:0}
 A.zN.prototype={
 M(a,b){var s=null,r=b.a_(t.w).f.a.a,q=r/8,p=t.p
-return A.d4(s,A.hX(A.a([A.iC(A.a([new A.kK(B.xC,new A.Nf(),s),new A.kK(B.xA,new A.Ng(),s),new A.kK(B.cT,new A.Nh(),s),new A.kK(B.xz,new A.Ni(),s)],p),B.aw,B.a7),A.cD(s,20,s),A.nC("crack.png",B.bo,B.cD,30),A.dU("Copyright \xa9 2022 All rights reserved",s,s,s,s,s)],p),B.aG,B.cb),B.o,B.cN,s,s,s,300,s,new A.b_(q,40,q,40),s,s,r)}}
+return A.d4(s,A.hX(A.a([A.iC(A.a([new A.kK(B.xC,new A.Nf(),s),new A.kK(B.xA,new A.Ng(),s),new A.kK(B.cT,new A.Nh(),s),new A.kK(B.xz,new A.Ni(),s)],p),B.aw,B.a7),A.cD(s,20,s),A.nC("assets/crack.png",B.bo,B.cD,30),A.dU("Copyright \xa9 2022 All rights reserved",s,s,s,s,s)],p),B.aG,B.cb),B.o,B.cN,s,s,s,300,s,new A.b_(q,40,q,40),s,s,r)}}
 A.Nf.prototype={
 $0(){},
 $S:0}
@@ -53217,7 +53217,7 @@ A.B_.prototype={
 M(a,b){var s,r=null,q=b.a_(t.w).f.a,p=q.b
 p=p>600?p:600
 s=t.p
-return A.d4(r,A.oV(B.bb,A.a([new A.eM(B.xh,A.nC("crack.png",B.bo,B.cD,30),r),A.oc(0,A.aoh(),r,r,r,r,r,r),A.MG(A.hX(A.a([A.cD(A.nC("splash1.png",B.bo,B.tK,r),450,600),A.dU("\n____HOLA.I AM____\n",r,!0,A.AY(r,16,B.W,r),r,r),A.dU("MOHAMMED SHIBIN V",r,!0,A.AY(r,32,B.W,r),r,r)],s),B.aG,B.aw),r,r)],s),B.bM),B.o,B.bi,r,r,r,p,r,r,r,r,q.a)}}
+return A.d4(r,A.oV(B.bb,A.a([new A.eM(B.xh,A.nC("assets/crack.png",B.bo,B.cD,30),r),A.oc(0,A.aoh(),r,r,r,r,r,r),A.MG(A.hX(A.a([A.cD(A.nC("assets/splash1.png",B.bo,B.tK,r),450,600),A.dU("\n____HOLA.I AM____\n",r,!0,A.AY(r,16,B.W,r),r,r),A.dU("MOHAMMED SHIBIN V",r,!0,A.AY(r,32,B.W,r),r,r)],s),B.aG,B.aw),r,r)],s),B.bM),B.o,B.bi,r,r,r,p,r,r,r,r,q.a)}}
 A.a3b.prototype={
 $0(){},
 $S:0}
@@ -53232,13 +53232,13 @@ M(a,b){var s,r,q=null,p=b.a_(t.w).f.a,o=p.b,n=o>600?o*0.92:600
 o=p.a
 s=o/8
 r=t.p
-return A.d4(q,new A.eM(new A.b_(s,40,s,40),A.hX(A.a([A.kP(A.iC(A.a([new A.oh("piano.png",B.cT,q),new A.oh("lms.png",B.cT,q),B.E5,A.hX(A.a([A.dU("WHAT I DID !\n",q,q,$.a4e(),q,q),A.dU("What special about me\nis that i know how to apply\nwhat i have learned\nHere some of my work",q,q,$.a4d(),B.jq,q)],r),B.kw,B.aw)],r),B.cb,B.a7),1)],r),B.aG,B.bA),q),B.o,B.bi,q,q,q,n,q,q,q,q,o)}}
+return A.d4(q,new A.eM(new A.b_(s,40,s,40),A.hX(A.a([A.kP(A.iC(A.a([new A.oh("assets/piano.png",B.cT,q),new A.oh("assets/lms.png",B.cT,q),B.E5,A.hX(A.a([A.dU("WHAT I DID !\n",q,q,$.a4e(),q,q),A.dU("What special about me\nis that i know how to apply\nwhat i have learned\nHere some of my work.",q,q,$.a4d(),B.jq,q)],r),B.kw,B.aw)],r),B.cb,B.a7),1)],r),B.aG,B.bA),q),B.o,B.bi,q,q,q,n,q,q,q,q,o)}}
 A.E4.prototype={
 M(a,b){var s,r,q=null,p=b.a_(t.w).f.a,o=p.b,n=o>600?o*0.92:600
 o=p.a
 s=o/8
 r=t.p
-return A.d4(q,new A.eM(new A.b_(s,40,s,40),A.iC(A.a([A.kP(A.hX(A.a([A.dU("WHAT I \nGOOD WITH !\n",q,q,$.a4e(),q,q),A.dU("I always likes to learn \nnew things and \nit never exhaust me",q,q,$.a4d(),q,q),B.E6],r),B.cO,B.aw),1),A.kP(A.hX(A.a([A.kP(A.iC(A.a([B.E7,B.E8,B.Eb],r),B.cb,B.a7),1),A.kP(A.iC(A.a([B.Ea,B.E9,B.Ec],r),B.cb,B.a7),1)],r),B.aG,B.aw),2)],r),B.cb,B.a7),q),B.o,B.bi,q,q,q,n,q,q,q,q,o)}}
+return A.d4(q,new A.eM(new A.b_(s,40,s,40),A.iC(A.a([A.kP(A.hX(A.a([A.dU("WHAT I \nGOOD WITH !\n",q,q,$.a4e(),q,q),A.dU("I always likes to learn \nnew things and \nit never exhaust me",q,q,$.a4d(),q,q),B.E6],r),B.cO,B.aw),1),A.kP(A.hX(A.a([A.kP(A.iC(A.a([B.Ec,B.Eb,B.E7],r),B.cb,B.a7),1),A.kP(A.iC(A.a([B.E9,B.Ea,B.E8],r),B.cb,B.a7),1)],r),B.aG,B.aw),2)],r),B.cb,B.a7),q),B.o,B.bi,q,q,q,n,q,q,q,q,o)}}
 A.rd.prototype={
 aj(){return new A.w5(B.n)}}
 A.w5.prototype={
@@ -57247,12 +57247,12 @@ B.E4=new A.V(1e5,1e5)
 B.rN=new A.lQ(0,0,null,null)
 B.E5=new A.lQ(20,null,null,null)
 B.E6=new A.lQ(null,100,null,null)
-B.E7=new A.iF("Flutter.jpg","FLUTTER","*  *  *  *",null)
-B.E8=new A.iF("Web.jpg","WEB","*  *  *  *",null)
-B.E9=new A.iF("python.jpg","PYTHON","* * * *",null)
-B.Ea=new A.iF("cppjava.jpg","CPP/JAVA","* * * *",null)
-B.Eb=new A.iF("uiux.jpg","UI/UX","*  *  *  *",null)
-B.Ec=new A.iF("design.jpg","DESIGN","* * * *",null)
+B.E7=new A.iF("assets/uiux.jpg","UI/UX","*  *  *  *",null)
+B.E8=new A.iF("assets/design.jpg","DESIGN","* * * *",null)
+B.E9=new A.iF("assets/cppjava.jpg","CPP/JAVA","* * * *",null)
+B.Ea=new A.iF("assets/python.jpg","PYTHON","* * * *",null)
+B.Eb=new A.iF("assets/Web.jpg","WEB","*  *  *  *",null)
+B.Ec=new A.iF("assets/Flutter.jpg","FLUTTER","*  *  *  *",null)
 B.Ed=new A.v9(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.KG=new A.oS(3,"hide")
 B.rO=new A.oS(5,"timeout")
